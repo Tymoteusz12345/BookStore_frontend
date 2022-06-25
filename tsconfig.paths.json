@@ -1,0 +1,12 @@
+{ 
+    "compilerOptions": { 
+      "extends": "./tsconfig.paths.json", 
+      "baseUrl": ".", 
+      "paths": { 
+        "types": [ 
+          "../BookStoreProject_backend/types" 
+        ] 
+      } 
+    } 
+  } 
+  
